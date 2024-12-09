@@ -1,0 +1,3 @@
+config:
+  azure-native:location: westeurope
+  azure-native:id_subscription: c96c9bcd-9264-4416-8813-4819a41ef77e
