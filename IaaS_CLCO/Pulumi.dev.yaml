@@ -1,0 +1,4 @@
+config:
+  azure-native:location: westeurope
+  IaaS_CLCO:subscriptionId: c96c9bcd-9264-4416-8813-4819a41ef77e
+  IaaS_CLCO:resourceGroup: "rg_IaaS"
