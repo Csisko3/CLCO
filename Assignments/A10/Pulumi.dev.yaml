@@ -1,0 +1,5 @@
+config:
+  azure-native:location: westeurope
+  A10_Identity:userEmail: wi22b003@technikum-wien.at
+  A10_Identity:subscription_id: c96c9bcd-9264-4416-8813-4819a41ef77e
+

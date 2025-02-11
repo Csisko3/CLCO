@@ -1,0 +1,5 @@
+config:
+  azure-native:location: westeurope
+  azure-native:subscriptionId: c96c9bcd-9264-4416-8813-4819a41ef77e
+  A9_Storage:diskSize: "1024"
+  azure-native:resourceGroupName: a9_rg
